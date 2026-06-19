@@ -427,7 +427,7 @@ body.dark-mode .header.scrolled .menu-btn span {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url("./assets/images/hero-printing.jpg");
+  background-image: url("/assets/images/hero-printing.jpg");
   background-size: cover;
   background-position: center;
   transform: scale(1.05);
